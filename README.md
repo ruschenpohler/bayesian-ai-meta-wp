@@ -1,4 +1,4 @@
-# Quantifying the Benchmark-to-Job Capability Gap: A Bayesian Hierarchical Meta-Analysis
+# Capabilities, Tasks, and Jobs: A Bayesian Hierarchical Meta-Analysis of AI Productivity Effects
 
 > Full implementation plan is available on request.
 
