@@ -21,7 +21,7 @@ This project makes four primary contributions:
 
 First and most substantively, the project quantifies two gaps that the AI economics discussion currently treats qualitatively. The **benchmark-task gap** captures the loss of capability between what models can do in isolation and what humans using those models can do in lab studies. This gap is presumed to exist because of model generalization failures, elicitation friction, and the human-in-the-loop, but it has not been quantified in a unified framework. The **task-job gap** captures the further loss between lab task performance and field productivity. This gap is presumed to reflect adoption frictions, organizational inertia, and equilibrium effects, but has likewise not been quantified. The project provides a framework to discipline these debates, and produces structural estimates of the cross-task means $\mu^{\text{lab}}$ and $\mu^{\text{field}}$ as headline transmission parameters at each gap. The directional expectation, registered ex ante, is that $\mu^{\text{field}} < \mu^{\text{lab}}$: adoption frictions exceed model-generalization frictions.
 
-Second, the framework provides a **measurement model for AI capability** that pools dense benchmark data with sparse but economically relevant study evidence, a tool the AI exposure literature currently lacks. It also locates recent work-adjacent benchmarks (such as OpenAI's GDPval) and human-curated benchmarks that capture complex real-world tasks (such as codearena) on the spectrum from traditional benchmark to lab study-task, letting the data speak to where they actually sit.
+Second, the framework provides a **measurement model for AI capability** that pools dense benchmark data with sparse but economically relevant study evidence, a tool the AI exposure literature currently lacks. It also locates recent work-adjacent benchmarks (such as OpenAI's GDPval) and human-curated benchmarks that capture complex real-world tasks (such as codearena, MirrorCode) on the spectrum from traditional benchmark to lab study-task, letting the data speak to where they actually sit.
 
 Third, the framework translates **model capability to real productivity units** (i.e., log productivity ratios, and conditionally, wage-bill-equivalent changes). This allows its structural quantities to directly inform the debate around real productivity effects of AI in labor and macro economics.
 
@@ -157,6 +157,8 @@ Acemoglu, D., and Restrepo, P. (2018). The race between man and machine: Implica
 Acemoglu, D., and Restrepo, P. (2020). Robots and jobs: Evidence from US labor markets. *Journal of Political Economy*, 128(6).
 
 Acemoglu, D. (2024). The simple macroeconomics of AI. *Economic Policy*, 40(121), 13–58.
+
+Adamczewsky et al. (2026). MirrorCode: Evidence that AI can already do some weeks-long coding tasks. Available at: https://epoch.ai/blog/mirrorcode-preliminary-results.
 
 Bick, A., Blandin, A., and Deming, D. (2024). The rapid adoption of generative AI. *NBER working paper*.
 
