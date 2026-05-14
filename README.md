@@ -76,8 +76,9 @@ $$
 
 where:
 - $\lambda^{\text{field}}_{j(s')}$ is the rate at which raw capability passes through to register as a productivity-enhancing effect
+- $\mu^{\text{lab}}$ and $\mu^{\text{field}}$ are the hyper-means of the distributions which $\lambda^{\text{lab}}_k$ and \lambda^{\text{field}}_{j(s')} are drawn from.
 
-The composite $\mu^{\text{lab}} \cdot \mu^{\text{field}}$ is the headline benchmark-to-job passthrough, with $\mu^{\text{lab}}$ and $\mu^{\text{field}}$ being the hyper-means of the distributions which $\lambda^{\text{lab}}_k$ and \lambda^{\text{field}}_{j(s')} are drawn from.
+The composite $\mu^{\text{lab}} \cdot \mu^{\text{field}}$ is the headline benchmark-to-job passthrough. It characterizes the combined transmission rate from benchmark results to occupational tasks (via lab-based task evaluations).
 
 As above with $\lambda^{\text{lab}}_k$, $\lambda^{\text{field}}_{j(s')}$ are partially pooled via the hyperprior $\lambda^{\text{field}}_{j(s')} \sim \mathcal{N}(\mu^{\text{field}}, (\tau^{\text{field}})^2)$, with $\mu^{\text{field}}$ the cross-task mean transmission rate and $\tau^{\text{field}}$ its cross-task standard deviation.
 
